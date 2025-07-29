@@ -1,2 +1,1 @@
-# atf-code-signing
-SpaceX bugbounty POC by @nvk0x
+# SpaceX bugbounty POC by @nvk0x
